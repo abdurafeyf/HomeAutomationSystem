@@ -9,6 +9,7 @@ int humidityMin = 24;
 int smokeMin = 300;
 //App Code 
 String inputs;
+
 #define relay1 7 //Connect relay1 to pin 9
 #define relay3 4 //Connect relay3 to pin 7
 #define relay4 5 //Connect relay4 to pin 6
